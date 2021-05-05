@@ -1,4 +1,4 @@
-<img src="/Volumes/ST2000DM008-2FR102/header.jpeg" alt="header" style="zoom:70%" align="right"/>
+<img src="header.jpeg" alt="header" style="zoom:70%" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reneezhou&label=Profile%20views&color=0e75b6&style=flat" alt="reneezhou" /> </p>
 
