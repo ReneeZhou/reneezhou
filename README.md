@@ -1,4 +1,5 @@
 [![Header](https://raw.githubusercontent.com/ReneeZhou/reneezhou/6a31dee3f9fb446b331bdde7ae360774ac23b03d/header.jpeg "Header")]()
+img[alt=Header] { width: 200px; }
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reneezhou&label=Profile%20views&color=0e75b6&style=flat" alt="reneezhou" /> </p>
