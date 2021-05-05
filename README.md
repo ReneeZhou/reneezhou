@@ -4,11 +4,13 @@ align="right" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reneezhou&label=Profile%20views&color=0e75b6&style=flat" alt="reneezhou" /> </p>
 
-- 🔭 I’m currently working on [django-twitter](https://github.com/ReneeZhou/django-chirper)
+- I simulated Twitter with 2 framework 
+-- [django](http://django-chirper.herokuapp.com)
+-- [flask](http://flask-chirper.herokuapp.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ReneeZhou](https://github.com/ReneeZhou)
+- 💻 All of my projects are available at [https://github.com/ReneeZhou](https://github.com/ReneeZhou)
 
-- 📫 How to reach me **twitter @reneezhous**
+- 📫 How to reach me **twitter [@reneezhous](https://twitter.com/reneezhous)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
