@@ -1,17 +1,11 @@
 
 <img src="header.jpeg" alt="header" style="zoom:70%" align="right"/>
 
-<p>I'm a self-taught web developer. My most recent project are: </p>
-
-
-<p>I simulated 
-	<img src="twitter.png" width="30"> 
-	Twitter with 
-	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30px" style="margin-bottom:3px"/> 
-	TailwindCSS + 2 frameworks, and I called my website Chirper. 
-	<img src="chirper_color.png" width="28px" style="margin-bottom:2px">
-</p>
-
+<h4>I'm a self-taught web developer. My most recent project are: </h4>
+<p>I simulated <img src="twitter.png" width="30"> Twitter with 
+	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30px" style="margin-bottom:0px"/> 
+	TailwindCSS & 2 frameworks. </p>
+<p>I called my website Chirper. <img src="chirper_color.png" width="28px" style="margin-bottom:0px"></p>
 
 <p>
 	<img src="https://media.giphy.com/media/dyYHdXPVMOhpgHN3Ns/giphy.gif" width="80" style="margin-top:-15px; margin-right:-10px">
