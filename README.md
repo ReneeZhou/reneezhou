@@ -4,7 +4,9 @@
 <p>I'm a self-taught web developer. My most recent project are: </p>
 
 
-<p>I simulated Twitter with 
+<p>I simulated 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/twitter/twitter-original.svg" width="20" height="10"> 
+	Twitter with 
 	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30px" style="margin-bottom:3px"/> 
 	TailwindCSS + 2 frameworks, and I called my website Chirper. 
 	<img src="chirper_color.png" width="28px" style="margin-bottom:2px">
