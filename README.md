@@ -44,9 +44,6 @@
   <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/r/r-original.svg" width="40" height="40"></a>
 </p>
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reneezhou&show_icons=true&locale=en&layout=compact&theme=gotham" alt="reneezhou"/></span>
-
-> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=reneezhou&theme=gotham" alt="reneezhou" />
-> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reneezhou&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="reneezhou" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=reneezhou&show_icons=true&locale=en&layout=compact&theme=gotham" alt="reneezhou"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reneezhou&theme=gotham" alt="reneezhou" />
+<img src="https://komarev.com/ghpvc/?username=reneezhou&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="reneezhou" />
