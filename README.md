@@ -7,7 +7,7 @@
 <p>I simulated Twitter with 
 	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30px" style="margin-bottom:3px"/> 
 	TailwindCSS + 2 frameworks, and I called my website Chirper. 
-	<img src="https://www.flaticon.com/svg/vstatic/svg/3221/3221473.svg?token=exp=1620202241~hmac=fd8beb30c2a117a4fa4a01dfd058ee96" width="28px" style="margin-bottom:2px">
+	<img src="chirper_color.png" width="28px" style="margin-bottom:2px">
 </p>
 
 
