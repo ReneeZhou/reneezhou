@@ -8,7 +8,7 @@
 <p>I called my website Chirper. <img src="chirper_color.png" width="28px" style="margin-bottom:0px"></p>
 
 <p>
-	<img src="https://media.giphy.com/media/dyYHdXPVMOhpgHN3Ns/giphy.gif" width="80" style="margin-top:-15px; margin-right:-10px">
+	Check them out here:
 	<a href="http://django-chirper.herokuapp.com">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="75px" style="margin-top:-20px;">
 	</a>
