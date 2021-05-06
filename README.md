@@ -1,7 +1,5 @@
-<div>
+
 <img src="header.jpeg" alt="header" style="zoom:70%" align="right"/>
-<span align="right"> <img src="https://komarev.com/ghpvc/?username=reneezhou&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="reneezhou" /> </span>
-</div>
 
 <p>I'm a self-taught web developer. My most recent project are: </p>
 
@@ -49,3 +47,6 @@
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reneezhou&show_icons=true&locale=en&layout=compact&theme=gotham" alt="reneezhou"/></span>
 
 > <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=reneezhou&theme=gotham" alt="reneezhou" />
+> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reneezhou&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="reneezhou" />
+</p>
