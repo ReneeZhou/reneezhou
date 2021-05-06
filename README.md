@@ -13,14 +13,15 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="75px" style="margin-top:-20px;">
 	</a>
 	<a href="http:/flask-chirper.herokuapp.com">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flask/flask-original-wordmark.svg" width="70" style="filter: invert(); margin-top:-20px;">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flask/flask-original-wordmark.svg" style="background:white; width:300px; height:140px; object-fit:cover; border-radius:25px;">   
 	</a>     
 </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ReneeZhou/"><img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/light/github.svg" width="36px" style="margin-bottom:6px" href="https://github.com/ReneeZhou"></a>
+	<a href="https://github.com/ReneeZhou/"><img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/light/github.svg" width="36px" style="margin-bottom:6px" href="https://github.com/ReneeZhou"></a>
+	<a href="https://twitter.com/reneezhous/><img src="twitter.png" width="30">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
