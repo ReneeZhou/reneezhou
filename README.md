@@ -13,7 +13,7 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="75px" style="margin-top:-20px;">
 	</a>
 	<a href="http:/flask-chirper.herokuapp.com">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flask/flask-original-wordmark.svg" width="75" height="35" style="background:white; width:75px; height:35px; object-fit:cover; border-radius:25px;">   
+		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flask/flask-original-wordmark.svg" width="75" background="white">   
 	</a>     
 </p>
 
