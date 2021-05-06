@@ -5,7 +5,7 @@
 
 
 <p>I simulated 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/twitter/twitter-original.svg" object-fit="contain" width="20" height="10"> 
+	<img src="twitter.png" object-fit="contain" width="20"> 
 	Twitter with 
 	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30px" style="margin-bottom:3px"/> 
 	TailwindCSS + 2 frameworks, and I called my website Chirper. 
