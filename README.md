@@ -1,7 +1,9 @@
+<p>
 <img src="header.jpeg" alt="header" style="zoom:70%" align="right"/>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=reneezhou&label=Profile%20views&color=0e75b6&style=flat" alt="reneezhou" /> </p>
+</p>
 
-<h2>I'm a self-taught web developer. My most recent project are: 
+<p>I'm a self-taught web developer. My most recent project are: </p>
 
 
 <p>I simulated Twitter with 
