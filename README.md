@@ -9,8 +9,9 @@ My most recent projects are:
 	<img src="twitter.png" width="22">
 	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="22"/>
 	<img src="chirper_color.png" width="20">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I simulatedTwitter with TailwindCSS & 2 frameworks. 
-	&#13; I called my websites Chirper. </p>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I simulatedTwitter with TailwindCSS & 2 frameworks. </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I called my websites Chirper. </p>
 
 
 <h4 style="margin-bottom:-20px">Check them out here:</h4>
