@@ -9,10 +9,10 @@ Hi, I'm Renee. I'm a self-taught web developer.
 		<img src="chirper_color.png" width="20"> -->
 	Check them out here:
 	<a href="http://django-chirper.herokuapp.com">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="75px">
+		<img src="devicon-django.svg" width="75px">
 	</a>
 	<a href="http:/flask-chirper.herokuapp.com">
-		<img src="devicon-flask-original-wordmark-bg.svg" width="75px">   
+		<img src="devicon-flask.svg" width="75px">   
 	</a>
 
 - My projects are here:
@@ -22,8 +22,8 @@ Hi, I'm Renee. I'm a self-taught web developer.
 
 - Languages and Tools:
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-	<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="devicon-flask-original-wordmark-bg.svg" alt="flask" width="40" height="40"/></a>
+	<a href="https://www.djangoproject.com/" target="_blank"><img src="devicon-django.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="devicon-flask.svg" alt="flask" width="40" height="40"/></a>
     <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
