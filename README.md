@@ -9,7 +9,7 @@ Hi, I'm Renee. I'm a self-taught web developer.
 		<img src="chirper_color.png" width="20"> -->
 	Check them out here:
 	<a href="http://django-chirper.herokuapp.com">
-		<img src="devicon-django.svg" width="65">
+		<img src="devicon-django.svg" height="28">
 	</a>
 	<a href="http:/flask-chirper.herokuapp.com">
 		<img src="devicon-flask.svg" width="65">   
