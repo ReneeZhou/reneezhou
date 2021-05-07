@@ -3,12 +3,12 @@
 
 Hi, I'm Renee. I'm a self-taught web developer. 
 My most recent projects are:
-<p>I simulated <img src="twitter.png" width="25"> Twitter with 
-	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" style="margin-bottom:0px"/> 
+<p style="margin-left:3">I simulated <img src="twitter.png" width="22"> Twitter with 
+	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="22" style="margin-bottom:0px"/> 
 	TailwindCSS & 2 frameworks. </p>
-<p>I called my website Chirper. <img src="chirper_color.png" width="23" style="margin-bottom:0px"></p>
+<p style="margin-left:3">I called my website Chirper. <img src="chirper_color.png" width="20" style="margin-bottom:0px"></p>
 
-<h4>Check them out here:</h4>
+<h4 style="margin-bottom:-10">Check them out here:</h4>
 <p>
 	<a href="http://django-chirper.herokuapp.com">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="75px">
@@ -21,7 +21,7 @@ My most recent projects are:
 <h4>My projects are here:</h4>
 <a href="https://github.com/ReneeZhou/"><img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/light/github.svg" width="36px" style="margin-bottom:6px" href="https://github.com/ReneeZhou"></a>
 <h4>Connect with me:</h4> 
-<a href="https://twitter.com/reneezhous/><img src="twitter.png" width="30"></a>
+<a href="https://twitter.com/reneezhous/"><img src="twitter.png" width="30"></a>
 
 <h4>Languages and Tools:</h4>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
