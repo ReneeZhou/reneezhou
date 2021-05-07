@@ -3,13 +3,11 @@
 
 Hi, I'm Renee. I'm a self-taught web developer. 
 - My most recent projects are:
-	- I simulatedTwitter with TailwindCSS & 2 frameworks. I called my websites Chirper.
+	 Simulated Twitter with TailwindCSS & 2 frameworks.
 		<img src="twitter.png" width="22">
 		<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="22"/>
 		<img src="chirper_color.png" width="20">
-
-
-<h4 style="margin-bottom:-20px">Check them out here:</h4>
+	Check them out here:
 <p>
 	<a href="http://django-chirper.herokuapp.com">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="75px">
