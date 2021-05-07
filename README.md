@@ -1,12 +1,12 @@
 
-<img src="header.jpeg" alt="header" style="zoom:70%" align="right"/>
+<img src="header.jpeg" alt="header" style="" align="center"/>
 
 Hi, I'm Renee. I'm a self-taught web developer. 
 - My most recent projects are:
 	 Simulated Twitter with TailwindCSS & 2 frameworks.
 		<img src="twitter.png" width="22">
 		<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="22"/>
-		<img src="chirper_color.png" width="20">
+		<img src="chirper_color.png" width="20"> 
 	Check them out here:
 <p>
 	<a href="http://django-chirper.herokuapp.com">
