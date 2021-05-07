@@ -3,12 +3,14 @@
 
 Hi, I'm Renee. I'm a self-taught web developer. 
 My most recent projects are:
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I simulated <img src="twitter.png" width="22"> Twitter with 
-	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="22"/> 
-	TailwindCSS & 2 frameworks. </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I called my website Chirper. <img src="chirper_color.png" width="20" margin-top="-10"></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I simulatedTwitter with TailwindCSS & 2 frameworks. I called my websites Chirper. </p>
+<p>
+	<img src="twitter.png" width="22">
+	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="22"/>
+	<img src="chirper_color.png" width="20">
+</p>
 
-<h4 style="margin-bottom:-10">Check them out here:</h4>
+<h4 style="margin-bottom:-20px">Check them out here:</h4>
 <p>
 	<a href="http://django-chirper.herokuapp.com">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="75px">
