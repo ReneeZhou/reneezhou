@@ -1,5 +1,5 @@
 
-<img src="header.jpeg" alt="header" style="" align="center"/>
+<img src="header.jpeg" alt="header" style=""/>
 
 Hi, I'm Renee. I'm a self-taught web developer. 
 - My most recent projects are:
