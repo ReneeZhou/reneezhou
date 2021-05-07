@@ -16,9 +16,9 @@ Hi, I'm Renee. I'm a self-taught web developer.
 	</a>
 
 - My projects are here:
-<a href="https://github.com/ReneeZhou/"><img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/light/github.svg" height="36" style="margin-bottom:6px" href="https://github.com/ReneeZhou"></a>
+<a href="https://github.com/ReneeZhou/"><img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/light/github.svg" height="30" style="margin-bottom:6px" href="https://github.com/ReneeZhou"></a>
 - Connect with me:
-<a href="https://twitter.com/reneezhous/"><img src="twitter.png" height="36"></a>
+<a href="https://twitter.com/reneezhous/"><img src="twitter.png" height="30"></a>
 
 - Languages and Tools:
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30" /></a>
