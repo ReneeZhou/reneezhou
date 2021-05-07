@@ -3,18 +3,20 @@
 
 Hi, I'm Renee. I'm a self-taught web developer. 
 My most recent projects are:
-I simulated <img src="twitter.png" width="25"> Twitter with 
+<p>I simulated <img src="twitter.png" width="25"> Twitter with 
 	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" style="margin-bottom:0px"/> 
 	TailwindCSS & 2 frameworks. </p>
-I called my website Chirper. <img src="chirper_color.png" width="23" style="margin-bottom:0px">
+<p>I called my website Chirper. <img src="chirper_color.png" width="23" style="margin-bottom:0px"></p>
 
-Check them out here:
-<a href="http://django-chirper.herokuapp.com">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="75px">
-</a>
-<a href="http:/flask-chirper.herokuapp.com">
-	<img src="devicon-flask-original-wordmark-bg.svg" width="75px">   
-</a>     
+<h4>Check them out here:</h4>
+<p>
+	<a href="http://django-chirper.herokuapp.com">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="75px">
+	</a>
+	<a href="http:/flask-chirper.herokuapp.com">
+		<img src="devicon-flask-original-wordmark-bg.svg" width="75px">   
+	</a>
+</p>
 
 <h4>My projects are here:</h4>
 <a href="https://github.com/ReneeZhou/"><img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/light/github.svg" width="36px" style="margin-bottom:6px" href="https://github.com/ReneeZhou"></a>
