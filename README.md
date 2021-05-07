@@ -3,10 +3,10 @@
 
 Hi, I'm Renee. I'm a self-taught web developer. 
 My most recent projects are:
-<span width="30"></span><p>I simulated <img src="twitter.png" width="22"> Twitter with 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>I simulated <img src="twitter.png" width="22"> Twitter with 
 	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="22" style="margin-bottom:-10px"/> 
 	TailwindCSS & 2 frameworks. </p>
-<span width="30"></span><p>I called my website Chirper. <img src="chirper_color.png" width="20" style="margin-bottom:0px"></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>I called my website Chirper. <img src="chirper_color.png" width="20" style="margin-bottom:0px"></p>
 
 <h4 style="margin-bottom:-10">Check them out here:</h4>
 <p>
