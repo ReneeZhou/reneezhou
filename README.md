@@ -2,16 +2,11 @@
 <img src="header.jpeg" alt="header" style="zoom:70%" align="right"/>
 
 Hi, I'm Renee. I'm a self-taught web developer. 
-My most recent projects are:
-	
-<p>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="twitter.png" width="22">
-	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="22"/>
-	<img src="chirper_color.png" width="20">
-</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I simulatedTwitter with TailwindCSS & 2 frameworks. </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I called my websites Chirper. </p>
+- My most recent projects are:
+	- I simulatedTwitter with TailwindCSS & 2 frameworks. I called my websites Chirper.
+		<img src="twitter.png" width="22">
+		<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="22"/>
+		<img src="chirper_color.png" width="20">
 
 
 <h4 style="margin-bottom:-20px">Check them out here:</h4>
