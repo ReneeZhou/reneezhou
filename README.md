@@ -17,12 +17,12 @@ Hi, I'm Renee. I'm a self-taught web developer.
 	</a>
 </p>
 
-<h4>My projects are here:</h4>
+- My projects are here:
 <a href="https://github.com/ReneeZhou/"><img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/light/github.svg" width="36px" style="margin-bottom:6px" href="https://github.com/ReneeZhou"></a>
 <h4>Connect with me:</h4> 
 <a href="https://twitter.com/reneezhous/"><img src="twitter.png" width="30"></a>
 
-<h4>Languages and Tools:</h4>
+- Languages and Tools:
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 	<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="devicon-flask-original-wordmark-bg.svg" alt="flask" width="40" height="40"/></a>
