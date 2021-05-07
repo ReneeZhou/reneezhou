@@ -13,7 +13,7 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" width="75px" style="margin-top:-20px;">
 	</a>
 	<a href="http:/flask-chirper.herokuapp.com">
-		<img src="devicon-flask-original-workmark-bg.svg" width="75px">   
+		<img src="devicon-flask-original-wordmark-bg.svg" width="75px">   
 	</a>     
 </p>
 
