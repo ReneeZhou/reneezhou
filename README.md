@@ -35,7 +35,8 @@ Hi, I'm Renee. I'm a self-taught web developer.
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="30" /></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/r/r-original.svg" height="30" /></a>
 
-- Fun fact: I've been learning Italian  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=duolingo&color=065f46&label=Duolingo%20Streak&query=%24.message&url=http%3A%2F%2Fduolingo-streak.herokuapp.com%2F" alt="duolingo-streak">
+- Fun fact: I've been learning Italian 😬 🇮🇹
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=duolingo&color=065f46&label=Duolingo%20Streak&query=%24.message&url=http%3A%2F%2Fduolingo-streak.herokuapp.com%2F" alt="duolingo-streak">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reneezhou&theme=gotham" alt="github-stats" />
 <!-- <img src="https://komarev.com/ghpvc/?username=reneezhou&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" /> -->
