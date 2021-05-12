@@ -36,5 +36,6 @@ Hi, I'm Renee. I'm a self-taught web developer.
   <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/r/r-original.svg" height="30" /></a>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reneezhou&theme=gotham" alt="reneezhou" />
-<img src="https://komarev.com/ghpvc/?username=reneezhou&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="reneezhou" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reneezhou&theme=gotham" alt="github-stats" />
+<img src="https://komarev.com/ghpvc/?username=reneezhou&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="profile-views" />
+<img src="http://duolingo-streak.herokuapp.com/" alt="django-streak" />
